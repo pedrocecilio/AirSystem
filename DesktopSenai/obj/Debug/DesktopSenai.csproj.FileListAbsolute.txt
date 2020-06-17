@@ -1,0 +1,13 @@
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\bin\Debug\DesktopSenai.exe.config
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\bin\Debug\DesktopSenai.exe
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\bin\Debug\DesktopSenai.pdb
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.csprojAssemblyReference.cache
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.Cadastro.resources
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.ListarUser.resources
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.Login.resources
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.Properties.Resources.resources
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.TelaPrincipalAdm.resources
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.TelaPrincipalUser.resources
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.csproj.GenerateResource.cache
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.exe
+C:\Users\cecil\OneDrive\Área de Trabalho\Projeto-Senai\DesktopSenai\obj\Debug\DesktopSenai.pdb
